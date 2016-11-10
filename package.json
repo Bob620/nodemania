@@ -1,0 +1,17 @@
+{
+  "name": "nodemania",
+  "version": "1.0.0",
+  "description": "StepMania for a personal RaspberryPi Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bob620",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "node-hid": "^0.5.1",
+    "rpi-gpio": "^0.7.0",
+    "socket.io": "^1.5.1"
+  }
+}
